@@ -1,6 +1,23 @@
 Financial Performance Dashboard (Power BI)
+![Financial Dashboard](financial-performance-dashboard.png)
 🔍 Project Overview
+This dashboard analyzes financial performance by tracking key metrics across multiple regions and product categories. It helps identify profit drivers, discount impact, and revenue performance trends.
+📊 Key KPIs
+Metric	Value
+Total Units Sold	1.13M
+Total Profit	12.06M
+Average Discount	13.15K
+Total Sales	118.73M
+Total Gross Sales	127.93M
+🛠 Tools Used
 
+Power BI
+
+DAX Measures
+
+Excel
+
+📸 Dashboard Preview
 This dashboard analyzes sales performance and profitability using key metrics such as total revenue, total units sold, profit margin, and discount impact across multiple regions and products.
 
 📊 Key KPIs
