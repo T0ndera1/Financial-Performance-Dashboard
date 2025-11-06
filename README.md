@@ -1,5 +1,6 @@
 Financial Performance Dashboard (Power BI)
 ![Financial Dashboard](financial-performance-dashboard.png)
+
 🔍 Project Overview
 This dashboard analyzes financial performance by tracking key metrics across multiple regions and product categories. It helps identify profit drivers, discount impact, and revenue performance trends.
 📊 Key KPIs
